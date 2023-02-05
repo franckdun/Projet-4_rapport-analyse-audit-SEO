@@ -1,7 +1,7 @@
 # <p align="center"><a href="https://github.com/franckdun/Learning-plan_Openclassrooms"><img src="https://img.shields.io/badge/🏠-🎓%20Web developer training Openclassrooms 2022%20🎓-7986CB" width="750" ></a></p>
 
-###RAPPORT ANALYSE AUDIT SEO : Site LA PANTHERE
-
+# <p>RAPPORT ANALYSE AUDIT SEO</p>
+ 
 ![ 1 - Maquette ](https://github.com/franckdun/maquette-la_panthere)
 
 ![ 2 - Rapport d'optimisation ](https://github.com/franckdun/Projet-4_rapport-optimisation)
