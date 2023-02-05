@@ -10,7 +10,7 @@
 	
 * [ 1 - Maquette ](https://github.com/franckdun/maquette-la_panthere)
 
-* [ 2 - Rapport d'optimisation ](https://github.com/franckdun/Projet-4_rapport-optimisation)
+* [ 2 - Rapport-analyse-audit-SEO ](https://github.com/franckdun/Projet-4_rapport-analyse-audit-SEO)
 
 * [ 3 - Retour à ; LA_Panthère_L4 ](https://github.com/franckdun/La_Panthere_L4)
 
