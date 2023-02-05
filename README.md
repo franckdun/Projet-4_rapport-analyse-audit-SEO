@@ -15,22 +15,18 @@
   <table>
 	<tr>
 	   <td width="50%">
-	   <h2>La_Panthere_L4</h2>
-     <p>Livrable 4 : Compétences évaluées.</p>
-     
-* [Optimiser la taille et la vitesse d’un site web](https://franckdun.github.io/La_Panthere_L4/la_panthere_agence_web_design.html)
 	
-* [Réaliser une recherche des bonnes pratiques en développement web](https://franckdun.github.io/La_Panthere_L4/la_panthere_agence_web_design.html)
+* [ 1 - Maquette ](https://github.com/franckdun/maquette-la_panthere)
 
-* [Écrire un code HTML et CSS maintenable](https://franckdun.github.io/La_Panthere_L4/la_panthere_agence_web_design.html)
+* [ 2 - Rapport d'optimisation ](https://github.com/franckdun/Projet-4_rapport-optimisation)
 
-* [Assurer l'accessibilité d'un site web](https://franckdun.github.io/La_Panthere_L4/la_panthere_agence_web_design.html)
+* [ 3 - Retour à ; LA_Panthère_L4 ](https://github.com/franckdun/La_Panthere_L4)
 
-* [Optimiser le référencement d'un site web](https://franckdun.github.io/La_Panthere_L4/la_panthere_agence_web_design.html)
+* [ 4 - Site Agence web design La Panthère ](https://franckdun.github.io/La_Panthere_L4/la_panthere_agence_web_design.html)
 	   </td>  
 	     <td width="50%">
 
-[![img contact](https://github.com/franckdun/Projet-4_rapport-analyse-audit-SEO/blob/main/README.PNG)
+![img contact](https://github.com/franckdun/Projet-4_rapport-analyse-audit-SEO/blob/main/README.PNG)
 	   </td>  
 	 </tr>
  </table>
