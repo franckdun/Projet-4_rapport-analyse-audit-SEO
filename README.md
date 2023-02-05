@@ -30,7 +30,7 @@
 	   </td>  
 	     <td width="50%">
 
-[![img contact](https://github.com/franckdun/La_Panthere_L4/blob/main/img/readme-1.webp)](https://franckdun.github.io/La_Panthere_L4/la_panthere_agence_web_design.html)
+[![img contact](https://github.com/franckdun/Projet-4_rapport-analyse-audit-SEO/blob/main/README.PNG)
 	   </td>  
 	 </tr>
  </table>
