@@ -2,14 +2,6 @@
 
 # <p>RAPPORT ANALYSE AUDIT SEO</p>
  
-![ 1 - Maquette ](https://github.com/franckdun/maquette-la_panthere)
-
-![ 2 - Rapport d'optimisation ](https://github.com/franckdun/Projet-4_rapport-optimisation)
-
-![ 3 - Retour à ; LA_Panthère_L4 ](https://github.com/franckdun/La_Panthere_L4)
-
-![ 4 - Site Agence web design La Panthère ](https://franckdun.github.io/La_Panthere_L4/la_panthere_agence_web_design.html)
-
 <!-- presentation -->
 <div align="center">
   <table>
@@ -26,7 +18,7 @@
 	   </td>  
 	     <td width="50%">
 
-![img contact](https://github.com/franckdun/Projet-4_rapport-analyse-audit-SEO/blob/main/README.PNG)
+[![img contact](https://github.com/franckdun/Projet-4_rapport-analyse-audit-SEO/blob/main/README.PNG)](https://github.com/franckdun/Projet-4_rapport-analyse-audit-SEO/blob/main/rapport-audit-SEO.xlsx)
 	   </td>  
 	 </tr>
  </table>
